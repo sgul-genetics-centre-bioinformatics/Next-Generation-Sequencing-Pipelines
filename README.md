@@ -4,14 +4,14 @@
 ##Directory/file structure:
 
 Genetics_Centre_Bioinformatics/Exomes
-/Aligned
-/Unaligned
-/raw_FASTQ
-/tmp
-/UBAMs
-/VCF
-/FastQC
-/FastQC_before
+./Aligned
+./Unaligned
+./raw_FASTQ
+./tmp
+./UBAMs
+./VCF
+./FastQC
+./FastQC_before
 
 
 ##Needs the following resources to run:
