@@ -28,3 +28,16 @@ Genetics_Centre_Bioinformatics/Exomes
 - 1000G_phase1.snps.high_confidence.hg19.sites.vcf
 - BroadExACExomeIntervlas.bed (Exome Target, the this case the Broad definition)
 
+##Individual scripts:
+
+- pipeline_alignment_v1.0.py
+- pipeline_Annotate_v1.0.py
+- pipeline_calculate_coverage_metrics.sh
+- pipeline_fastq_clean_Adapter_removal_v1.0.sh
+- pipeline_fastq_clean_Quality_clip_v1.0.sh
+- pipeline_fastQC_v1.0_before.py
+- pipeline_fastQC_v1.0.py
+- pipeline_realignment_external_BAMs_v1.0.py
+- pipeline_VariantCalling_v1.0.py
+
+
