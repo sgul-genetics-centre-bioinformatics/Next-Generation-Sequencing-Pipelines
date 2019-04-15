@@ -1,4 +1,4 @@
-#Dionysios Grigoriadis
+#Alan Pittman & Dionysios Grigoriadis
 
 #Program to genotype gVCF files in batches to join later for cohort (exome-wide studies etc.)
 
