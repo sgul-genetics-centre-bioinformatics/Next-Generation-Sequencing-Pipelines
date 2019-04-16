@@ -21,7 +21,7 @@ For more information check dependencies.py
 
   - FastQC
   - MultiQC
-  - python2.7
+  - python2.7. These scripts have been developed and tested using python2.7. Feel free to update them.
   - bwa
   - human_g1k_v37.fasta
   - samtools
